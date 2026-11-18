@@ -1,0 +1,5 @@
+{"id": "c1", "query": "¿Cuál es el límite comercial?", "expected_route": "cheap"}
+{"id": "c2", "query": "¿Cuál es el descuento de A1?", "expected_route": "cheap"}
+{"id": "c3", "query": "Compara A1 y A2 y explica trade-offs de arquitectura", "expected_route": "strong"}
+{"id": "c4", "query": "Analiza a detalle los requisitos de integración multi-paso", "expected_route": "strong"}
+{"id": "c5", "query": "política de viajes interplanetarios 2099", "expected_route": "abstain"}
